@@ -1,6 +1,6 @@
 # EssentialsPlus
- for TShock5 by Average#1305
- 汉化：肝帝熙恩
+## for TShock5 by Average#1305
+## 汉化：肝帝熙恩
 Essentials+ 是 Essentials 和 MoreAdminCommands 的优化组合。所有命令都是异步运行的。
 不包括标志命令。
 
