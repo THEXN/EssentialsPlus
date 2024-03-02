@@ -8,7 +8,7 @@ namespace EssentialsPlus
         [JsonProperty("Pvp禁用命令")]
         public string[] DisabledCommandsInPvp = new string[]
         {
-            "back"
+            "eback"
         };
 
         [JsonProperty("回退位置历史记录")]

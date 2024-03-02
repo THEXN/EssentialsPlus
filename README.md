@@ -60,5 +60,7 @@ Essentials+ 是将 Essentials 和 MoreAdminCommands 中的一些功能进行了�
 - essentials.tp.right -> 允许使用 /right 命令。
 - essentials.tp.up -> 允许使用 /up 命令。
 
-## 关于插件
-- 有任何问题可以来提issues[本插件](https://github.com/THEXN/EssentialsPlus)：https://github.com/THEXN/EssentialsPlus
+## 支持与反馈
+
+- 如果您在使用过程中遇到问题或有任何建议，欢迎在官方论坛或社区中提出issues。
+- github仓库：https://github.com/THEXN/EssentialsPlus/

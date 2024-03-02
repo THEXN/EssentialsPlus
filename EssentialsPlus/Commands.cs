@@ -816,7 +816,7 @@ namespace EssentialsPlus
         {
             if (e.Parameters.Count > 1)
             {
-                e.Player.SendErrorMessage("无效的语法！正确的语法是：{0}back [步数]", TShock.Config.Settings.CommandSpecifier);
+                e.Player.SendErrorMessage("无效的语法！正确的语法是：{0}eback [步数]", TShock.Config.Settings.CommandSpecifier);
                 return;
             }
 

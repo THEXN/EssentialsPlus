@@ -264,7 +264,7 @@ namespace EssentialsPlus
                 HelpText = "在给定时间间隔后执行命令。"
             });
 
-            Add(new Command(Permissions.TpBack, Commands.Back, "back", "b", "回到")
+            Add(new Command(Permissions.TpBack, Commands.Back, "eback", "b", "回到")
             {
                 AllowServer = false,
                 HelpText = "在死亡或传送后将您传送回之前的位置。"
