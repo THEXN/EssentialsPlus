@@ -31,7 +31,7 @@ Essentials+ 是将 Essentials 和 MoreAdminCommands 中的一些功能进行了�
     - **-force** -> 强制运行命令，不受 <玩家> 的权限限制。
 - **/timecmd** 或 **/定时命令** -> 在给定时间间隔后执行命令。包含子命令：
     - **-repeat** -> 每隔 <时间> 重复执行 <命令>。
-- **/back** 或 **/b** 或 **/返回** [步数] -> 将您带回到上一个位置。如果提供了 [步数]，则尝试将您带回 [步数] 步之前的位置。
+- **/eback** 或 **/b** 或 **/返回** [步数] -> 将您带回到上一个位置。如果提供了 [步数]，则尝试将您带回 [步数] 步之前的位置。
 - **/down** 或 **/下** [层数] -> 尝试向下移动您在地图上的位置。如果指定了 [层数]，则尝试向下移动 [层数] 次。
 - **/left** 或 **/左** [层数] -> 与 /down [层数] 相同，但向左移动。
 - **/right** 或 **/右** [层数] -> 与 /down [层数] 相同，但向右移动。
@@ -54,7 +54,7 @@ Essentials+ 是将 Essentials 和 MoreAdminCommands 中的一些功能进行了�
 - essentials.send -> 允许使用 /send 命令。
 - essentials.sudo -> 允许使用 /sudo 命令。
 - essentials.timecmd -> 允许使用 /timecmd 命令。
-- essentials.tp.back -> 允许使用 /back 命令。
+- essentials.tp.eback -> 允许使用 /eback 命令。
 - essentials.tp.down -> 允许使用 /down 命令。
 - essentials.tp.left -> 允许使用 /left 命令。
 - essentials.tp.right -> 允许使用 /right 命令。
